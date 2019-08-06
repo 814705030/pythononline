@@ -3,3 +3,11 @@ dependencies:
   - pip:
     - requests
     - beautifulsoup
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
